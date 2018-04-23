@@ -1,0 +1,10 @@
+/home/bigdick_a/Documents/tugas/obj/Debug/netcoreapp2.0/tugas.csproj.CoreCompileInputs.cache
+/home/bigdick_a/Documents/tugas/obj/Debug/netcoreapp2.0/tugas.AssemblyInfoInputs.cache
+/home/bigdick_a/Documents/tugas/obj/Debug/netcoreapp2.0/tugas.AssemblyInfo.cs
+/home/bigdick_a/Documents/tugas/bin/Debug/netcoreapp2.0/tugas.deps.json
+/home/bigdick_a/Documents/tugas/bin/Debug/netcoreapp2.0/tugas.runtimeconfig.json
+/home/bigdick_a/Documents/tugas/bin/Debug/netcoreapp2.0/tugas.runtimeconfig.dev.json
+/home/bigdick_a/Documents/tugas/bin/Debug/netcoreapp2.0/tugas.dll
+/home/bigdick_a/Documents/tugas/bin/Debug/netcoreapp2.0/tugas.pdb
+/home/bigdick_a/Documents/tugas/obj/Debug/netcoreapp2.0/tugas.dll
+/home/bigdick_a/Documents/tugas/obj/Debug/netcoreapp2.0/tugas.pdb
